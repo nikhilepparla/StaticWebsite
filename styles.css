@@ -1,3 +1,19 @@
-.outer>.inner {
-    color: red;
+/*Chaining in Css this is like and operation 
+This has to be specified without spaces
+Below Example is div with classname inner will be selecteed*/
+div.outer {
+    background-color: blue;
+    height: 300px;
+    width: 300px;
+    position: relative;
+}
+
+div.inner {
+    height: 100px;
+    border-radius: 50%;
+    width: 100px;
+    background-color: red;
+    top: 250px;
+    left: 150px;
+    position: absolute;
 }
