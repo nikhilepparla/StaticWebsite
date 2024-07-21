@@ -1,27 +1,27 @@
 html {
-    background-color: aliceblue;
+    background-color: black;
+    font-family: 'Trebuchet MS', sans-serif;
+    align-items: center;
 }
 
-.first {
-    padding: 20px;
-    height: 200px;
-    width: 200px;
-    background-color: yellow;
-    border: 5px dotted black;
+
+.image {
+    margin-top: 100px;
+    height: 20%;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+    border: 2px solid white;
 }
 
-.sec {
-    height: 200px;
-    width: 200px;
-    background-color: red;
-    margin-left: 250px;
-    border: 5px solid black;
+#tiger {
+    text-align: center;
+    color: white;
 }
 
-.third {
-    height: 200px;
-    width: 200px;
-    margin-left: 40px;
-    background-color: blue;
-    border: 5px solid black;
+.para {
+    text-align: center;
+    color: white;
 }
