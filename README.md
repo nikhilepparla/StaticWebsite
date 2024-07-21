@@ -1,2 +1,2 @@
 # Static Website 
-![screenshot](./assets/paths.png)
+![screenshot](./assets/paths2.png)
